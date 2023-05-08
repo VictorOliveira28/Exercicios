@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\AdicionarRemoverEstoque\AdicionarRemoverEstoque\bin\Debug\net6.0\AdicionarRemoverEstoque.exe
+C:\Users\marcu\Documents\ProjetoCSharp\AdicionarRemoverEstoque\AdicionarRemoverEstoque\bin\Debug\net6.0\AdicionarRemoverEstoque.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\AdicionarRemoverEstoque\AdicionarRemoverEstoque\bin\Debug\net6.0\AdicionarRemoverEstoque.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\AdicionarRemoverEstoque\AdicionarRemoverEstoque\bin\Debug\net6.0\AdicionarRemoverEstoque.dll
+C:\Users\marcu\Documents\ProjetoCSharp\AdicionarRemoverEstoque\AdicionarRemoverEstoque\bin\Debug\net6.0\AdicionarRemoverEstoque.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\AdicionarRemoverEstoque\AdicionarRemoverEstoque\obj\Debug\net6.0\AdicionarRemoverEstoque.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\AdicionarRemoverEstoque\AdicionarRemoverEstoque\obj\Debug\net6.0\AdicionarRemoverEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\AdicionarRemoverEstoque\AdicionarRemoverEstoque\obj\Debug\net6.0\AdicionarRemoverEstoque.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\AdicionarRemoverEstoque\AdicionarRemoverEstoque\obj\Debug\net6.0\AdicionarRemoverEstoque.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\AdicionarRemoverEstoque\AdicionarRemoverEstoque\obj\Debug\net6.0\AdicionarRemoverEstoque.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\AdicionarRemoverEstoque\AdicionarRemoverEstoque\obj\Debug\net6.0\AdicionarRemoverEstoque.dll
+C:\Users\marcu\Documents\ProjetoCSharp\AdicionarRemoverEstoque\AdicionarRemoverEstoque\obj\Debug\net6.0\refint\AdicionarRemoverEstoque.dll
+C:\Users\marcu\Documents\ProjetoCSharp\AdicionarRemoverEstoque\AdicionarRemoverEstoque\obj\Debug\net6.0\AdicionarRemoverEstoque.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\AdicionarRemoverEstoque\AdicionarRemoverEstoque\obj\Debug\net6.0\AdicionarRemoverEstoque.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\AdicionarRemoverEstoque\AdicionarRemoverEstoque\obj\Debug\net6.0\ref\AdicionarRemoverEstoque.dll

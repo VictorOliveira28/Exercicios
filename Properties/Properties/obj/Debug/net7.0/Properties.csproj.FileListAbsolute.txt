@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Properties\Properties\bin\Debug\net7.0\Properties.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Properties\Properties\bin\Debug\net7.0\Properties.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Properties\Properties\bin\Debug\net7.0\Properties.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Properties\Properties\bin\Debug\net7.0\Properties.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Properties\Properties\bin\Debug\net7.0\Properties.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Properties\Properties\obj\Debug\net7.0\Properties.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Properties\Properties\obj\Debug\net7.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Properties\Properties\obj\Debug\net7.0\Properties.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Properties\Properties\obj\Debug\net7.0\Properties.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Properties\Properties\obj\Debug\net7.0\Properties.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Properties\Properties\obj\Debug\net7.0\Properties.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Properties\Properties\obj\Debug\net7.0\refint\Properties.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Properties\Properties\obj\Debug\net7.0\Properties.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Properties\Properties\obj\Debug\net7.0\Properties.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Properties\Properties\obj\Debug\net7.0\ref\Properties.dll

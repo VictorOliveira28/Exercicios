@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\UsingBlock\UsingBlock\bin\Debug\net7.0\UsingBlock.exe
+C:\Users\marcu\Documents\ProjetoCSharp\UsingBlock\UsingBlock\bin\Debug\net7.0\UsingBlock.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\UsingBlock\UsingBlock\bin\Debug\net7.0\UsingBlock.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\UsingBlock\UsingBlock\bin\Debug\net7.0\UsingBlock.dll
+C:\Users\marcu\Documents\ProjetoCSharp\UsingBlock\UsingBlock\bin\Debug\net7.0\UsingBlock.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\UsingBlock\UsingBlock\obj\Debug\net7.0\UsingBlock.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\UsingBlock\UsingBlock\obj\Debug\net7.0\UsingBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\UsingBlock\UsingBlock\obj\Debug\net7.0\UsingBlock.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\UsingBlock\UsingBlock\obj\Debug\net7.0\UsingBlock.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\UsingBlock\UsingBlock\obj\Debug\net7.0\UsingBlock.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\UsingBlock\UsingBlock\obj\Debug\net7.0\UsingBlock.dll
+C:\Users\marcu\Documents\ProjetoCSharp\UsingBlock\UsingBlock\obj\Debug\net7.0\refint\UsingBlock.dll
+C:\Users\marcu\Documents\ProjetoCSharp\UsingBlock\UsingBlock\obj\Debug\net7.0\UsingBlock.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\UsingBlock\UsingBlock\obj\Debug\net7.0\UsingBlock.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\UsingBlock\UsingBlock\obj\Debug\net7.0\ref\UsingBlock.dll

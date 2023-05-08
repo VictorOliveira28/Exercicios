@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\emp\emp\bin\Debug\net7.0\emp.exe
+C:\Users\marcu\Documents\ProjetoCSharp\emp\emp\bin\Debug\net7.0\emp.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\emp\emp\bin\Debug\net7.0\emp.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\emp\emp\bin\Debug\net7.0\emp.dll
+C:\Users\marcu\Documents\ProjetoCSharp\emp\emp\bin\Debug\net7.0\emp.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\emp\emp\obj\Debug\net7.0\emp.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\emp\emp\obj\Debug\net7.0\emp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\emp\emp\obj\Debug\net7.0\emp.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\emp\emp\obj\Debug\net7.0\emp.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\emp\emp\obj\Debug\net7.0\emp.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\emp\emp\obj\Debug\net7.0\emp.dll
+C:\Users\marcu\Documents\ProjetoCSharp\emp\emp\obj\Debug\net7.0\refint\emp.dll
+C:\Users\marcu\Documents\ProjetoCSharp\emp\emp\obj\Debug\net7.0\emp.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\emp\emp\obj\Debug\net7.0\emp.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\emp\emp\obj\Debug\net7.0\ref\emp.dll

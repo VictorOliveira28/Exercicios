@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Enumeracao\Enumeracao\bin\Debug\net7.0\Enumeracao.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Enumeracao\Enumeracao\bin\Debug\net7.0\Enumeracao.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Enumeracao\Enumeracao\bin\Debug\net7.0\Enumeracao.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Enumeracao\Enumeracao\bin\Debug\net7.0\Enumeracao.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Enumeracao\Enumeracao\bin\Debug\net7.0\Enumeracao.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Enumeracao\Enumeracao\obj\Debug\net7.0\refint\Enumeracao.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Enumeracao\Enumeracao\obj\Debug\net7.0\ref\Enumeracao.dll

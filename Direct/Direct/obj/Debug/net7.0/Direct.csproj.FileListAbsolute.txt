@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Direct\Direct\bin\Debug\net7.0\Direct.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Direct\Direct\bin\Debug\net7.0\Direct.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Direct\Direct\bin\Debug\net7.0\Direct.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Direct\Direct\bin\Debug\net7.0\Direct.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Direct\Direct\bin\Debug\net7.0\Direct.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Direct\Direct\obj\Debug\net7.0\Direct.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Direct\Direct\obj\Debug\net7.0\Direct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Direct\Direct\obj\Debug\net7.0\Direct.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Direct\Direct\obj\Debug\net7.0\Direct.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Direct\Direct\obj\Debug\net7.0\Direct.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Direct\Direct\obj\Debug\net7.0\Direct.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Direct\Direct\obj\Debug\net7.0\refint\Direct.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Direct\Direct\obj\Debug\net7.0\Direct.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Direct\Direct\obj\Debug\net7.0\Direct.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Direct\Direct\obj\Debug\net7.0\ref\Direct.dll

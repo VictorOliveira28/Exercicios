@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\orientacaoObjeto\orientacaoObjeto\bin\Debug\net6.0\orientacaoObjeto.exe
+C:\Users\marcu\Documents\ProjetoCSharp\orientacaoObjeto\orientacaoObjeto\bin\Debug\net6.0\orientacaoObjeto.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\orientacaoObjeto\orientacaoObjeto\bin\Debug\net6.0\orientacaoObjeto.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\orientacaoObjeto\orientacaoObjeto\bin\Debug\net6.0\orientacaoObjeto.dll
+C:\Users\marcu\Documents\ProjetoCSharp\orientacaoObjeto\orientacaoObjeto\bin\Debug\net6.0\orientacaoObjeto.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\orientacaoObjeto\orientacaoObjeto\obj\Debug\net6.0\orientacaoObjeto.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\orientacaoObjeto\orientacaoObjeto\obj\Debug\net6.0\orientacaoObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\orientacaoObjeto\orientacaoObjeto\obj\Debug\net6.0\orientacaoObjeto.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\orientacaoObjeto\orientacaoObjeto\obj\Debug\net6.0\orientacaoObjeto.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\orientacaoObjeto\orientacaoObjeto\obj\Debug\net6.0\orientacaoObjeto.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\orientacaoObjeto\orientacaoObjeto\obj\Debug\net6.0\orientacaoObjeto.dll
+C:\Users\marcu\Documents\ProjetoCSharp\orientacaoObjeto\orientacaoObjeto\obj\Debug\net6.0\refint\orientacaoObjeto.dll
+C:\Users\marcu\Documents\ProjetoCSharp\orientacaoObjeto\orientacaoObjeto\obj\Debug\net6.0\orientacaoObjeto.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\orientacaoObjeto\orientacaoObjeto\obj\Debug\net6.0\orientacaoObjeto.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\orientacaoObjeto\orientacaoObjeto\obj\Debug\net6.0\ref\orientacaoObjeto.dll

@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\ExPropHerancaPolimorfismo\ExPropHerancaPolimorfismo\bin\Debug\net7.0\ExPropHerancaPolimorfismo.exe
+C:\Users\marcu\Documents\ProjetoCSharp\ExPropHerancaPolimorfismo\ExPropHerancaPolimorfismo\bin\Debug\net7.0\ExPropHerancaPolimorfismo.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\ExPropHerancaPolimorfismo\ExPropHerancaPolimorfismo\bin\Debug\net7.0\ExPropHerancaPolimorfismo.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\ExPropHerancaPolimorfismo\ExPropHerancaPolimorfismo\bin\Debug\net7.0\ExPropHerancaPolimorfismo.dll
+C:\Users\marcu\Documents\ProjetoCSharp\ExPropHerancaPolimorfismo\ExPropHerancaPolimorfismo\bin\Debug\net7.0\ExPropHerancaPolimorfismo.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\ExPropHerancaPolimorfismo\ExPropHerancaPolimorfismo\obj\Debug\net7.0\ExPropHerancaPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ExPropHerancaPolimorfismo\ExPropHerancaPolimorfismo\obj\Debug\net7.0\ExPropHerancaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\ExPropHerancaPolimorfismo\ExPropHerancaPolimorfismo\obj\Debug\net7.0\ExPropHerancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ExPropHerancaPolimorfismo\ExPropHerancaPolimorfismo\obj\Debug\net7.0\ExPropHerancaPolimorfismo.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\ExPropHerancaPolimorfismo\ExPropHerancaPolimorfismo\obj\Debug\net7.0\ExPropHerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ExPropHerancaPolimorfismo\ExPropHerancaPolimorfismo\obj\Debug\net7.0\ExPropHerancaPolimorfismo.dll
+C:\Users\marcu\Documents\ProjetoCSharp\ExPropHerancaPolimorfismo\ExPropHerancaPolimorfismo\obj\Debug\net7.0\refint\ExPropHerancaPolimorfismo.dll
+C:\Users\marcu\Documents\ProjetoCSharp\ExPropHerancaPolimorfismo\ExPropHerancaPolimorfismo\obj\Debug\net7.0\ExPropHerancaPolimorfismo.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\ExPropHerancaPolimorfismo\ExPropHerancaPolimorfismo\obj\Debug\net7.0\ExPropHerancaPolimorfismo.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ExPropHerancaPolimorfismo\ExPropHerancaPolimorfismo\obj\Debug\net7.0\ref\ExPropHerancaPolimorfismo.dll

@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\SobrecargaPOO\SobrecargaPOO\bin\Debug\net7.0\SobrecargaPOO.exe
+C:\Users\marcu\Documents\ProjetoCSharp\SobrecargaPOO\SobrecargaPOO\bin\Debug\net7.0\SobrecargaPOO.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\SobrecargaPOO\SobrecargaPOO\bin\Debug\net7.0\SobrecargaPOO.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\SobrecargaPOO\SobrecargaPOO\bin\Debug\net7.0\SobrecargaPOO.dll
+C:\Users\marcu\Documents\ProjetoCSharp\SobrecargaPOO\SobrecargaPOO\bin\Debug\net7.0\SobrecargaPOO.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\SobrecargaPOO\SobrecargaPOO\obj\Debug\net7.0\SobrecargaPOO.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\SobrecargaPOO\SobrecargaPOO\obj\Debug\net7.0\SobrecargaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\SobrecargaPOO\SobrecargaPOO\obj\Debug\net7.0\SobrecargaPOO.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\SobrecargaPOO\SobrecargaPOO\obj\Debug\net7.0\SobrecargaPOO.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\SobrecargaPOO\SobrecargaPOO\obj\Debug\net7.0\SobrecargaPOO.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\SobrecargaPOO\SobrecargaPOO\obj\Debug\net7.0\SobrecargaPOO.dll
+C:\Users\marcu\Documents\ProjetoCSharp\SobrecargaPOO\SobrecargaPOO\obj\Debug\net7.0\refint\SobrecargaPOO.dll
+C:\Users\marcu\Documents\ProjetoCSharp\SobrecargaPOO\SobrecargaPOO\obj\Debug\net7.0\SobrecargaPOO.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\SobrecargaPOO\SobrecargaPOO\obj\Debug\net7.0\SobrecargaPOO.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\SobrecargaPOO\SobrecargaPOO\obj\Debug\net7.0\ref\SobrecargaPOO.dll

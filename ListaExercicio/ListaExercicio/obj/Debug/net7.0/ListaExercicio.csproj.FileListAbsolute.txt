@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\ListaExercicio\ListaExercicio\bin\Debug\net7.0\ListaExercicio.exe
+C:\Users\marcu\Documents\ProjetoCSharp\ListaExercicio\ListaExercicio\bin\Debug\net7.0\ListaExercicio.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\ListaExercicio\ListaExercicio\bin\Debug\net7.0\ListaExercicio.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\ListaExercicio\ListaExercicio\bin\Debug\net7.0\ListaExercicio.dll
+C:\Users\marcu\Documents\ProjetoCSharp\ListaExercicio\ListaExercicio\bin\Debug\net7.0\ListaExercicio.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\ListaExercicio\ListaExercicio\obj\Debug\net7.0\ListaExercicio.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ListaExercicio\ListaExercicio\obj\Debug\net7.0\ListaExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\ListaExercicio\ListaExercicio\obj\Debug\net7.0\ListaExercicio.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ListaExercicio\ListaExercicio\obj\Debug\net7.0\ListaExercicio.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\ListaExercicio\ListaExercicio\obj\Debug\net7.0\ListaExercicio.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ListaExercicio\ListaExercicio\obj\Debug\net7.0\ListaExercicio.dll
+C:\Users\marcu\Documents\ProjetoCSharp\ListaExercicio\ListaExercicio\obj\Debug\net7.0\refint\ListaExercicio.dll
+C:\Users\marcu\Documents\ProjetoCSharp\ListaExercicio\ListaExercicio\obj\Debug\net7.0\ListaExercicio.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\ListaExercicio\ListaExercicio\obj\Debug\net7.0\ListaExercicio.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ListaExercicio\ListaExercicio\obj\Debug\net7.0\ref\ListaExercicio.dll

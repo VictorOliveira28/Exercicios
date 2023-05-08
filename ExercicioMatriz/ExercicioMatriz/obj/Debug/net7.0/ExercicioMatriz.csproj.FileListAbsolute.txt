@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioMatriz\ExercicioMatriz\bin\Debug\net7.0\ExercicioMatriz.exe
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioMatriz\ExercicioMatriz\bin\Debug\net7.0\ExercicioMatriz.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioMatriz\ExercicioMatriz\bin\Debug\net7.0\ExercicioMatriz.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioMatriz\ExercicioMatriz\bin\Debug\net7.0\ExercicioMatriz.dll
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioMatriz\ExercicioMatriz\bin\Debug\net7.0\ExercicioMatriz.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioMatriz\ExercicioMatriz\obj\Debug\net7.0\ExercicioMatriz.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioMatriz\ExercicioMatriz\obj\Debug\net7.0\ExercicioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioMatriz\ExercicioMatriz\obj\Debug\net7.0\ExercicioMatriz.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioMatriz\ExercicioMatriz\obj\Debug\net7.0\ExercicioMatriz.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioMatriz\ExercicioMatriz\obj\Debug\net7.0\ExercicioMatriz.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioMatriz\ExercicioMatriz\obj\Debug\net7.0\ExercicioMatriz.dll
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioMatriz\ExercicioMatriz\obj\Debug\net7.0\refint\ExercicioMatriz.dll
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioMatriz\ExercicioMatriz\obj\Debug\net7.0\ExercicioMatriz.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioMatriz\ExercicioMatriz\obj\Debug\net7.0\ExercicioMatriz.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioMatriz\ExercicioMatriz\obj\Debug\net7.0\ref\ExercicioMatriz.dll

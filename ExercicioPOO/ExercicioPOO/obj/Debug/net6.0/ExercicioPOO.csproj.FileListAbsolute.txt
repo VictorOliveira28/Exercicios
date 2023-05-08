@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioPOO\ExercicioPOO\bin\Debug\net6.0\ExercicioPOO.exe
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioPOO\ExercicioPOO\bin\Debug\net6.0\ExercicioPOO.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioPOO\ExercicioPOO\bin\Debug\net6.0\ExercicioPOO.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioPOO\ExercicioPOO\bin\Debug\net6.0\ExercicioPOO.dll
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioPOO\ExercicioPOO\bin\Debug\net6.0\ExercicioPOO.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioPOO\ExercicioPOO\obj\Debug\net6.0\ExercicioPOO.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioPOO\ExercicioPOO\obj\Debug\net6.0\ExercicioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioPOO\ExercicioPOO\obj\Debug\net6.0\ExercicioPOO.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioPOO\ExercicioPOO\obj\Debug\net6.0\ExercicioPOO.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioPOO\ExercicioPOO\obj\Debug\net6.0\ExercicioPOO.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioPOO\ExercicioPOO\obj\Debug\net6.0\ExercicioPOO.dll
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioPOO\ExercicioPOO\obj\Debug\net6.0\refint\ExercicioPOO.dll
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioPOO\ExercicioPOO\obj\Debug\net6.0\ExercicioPOO.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioPOO\ExercicioPOO\obj\Debug\net6.0\ExercicioPOO.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioPOO\ExercicioPOO\obj\Debug\net6.0\ref\ExercicioPOO.dll

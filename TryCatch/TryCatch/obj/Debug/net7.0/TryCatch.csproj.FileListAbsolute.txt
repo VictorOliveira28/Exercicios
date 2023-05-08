@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\TryCatch\TryCatch\bin\Debug\net7.0\TryCatch.exe
+C:\Users\marcu\Documents\ProjetoCSharp\TryCatch\TryCatch\bin\Debug\net7.0\TryCatch.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\TryCatch\TryCatch\bin\Debug\net7.0\TryCatch.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\TryCatch\TryCatch\bin\Debug\net7.0\TryCatch.dll
+C:\Users\marcu\Documents\ProjetoCSharp\TryCatch\TryCatch\bin\Debug\net7.0\TryCatch.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.dll
+C:\Users\marcu\Documents\ProjetoCSharp\TryCatch\TryCatch\obj\Debug\net7.0\refint\TryCatch.dll
+C:\Users\marcu\Documents\ProjetoCSharp\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\TryCatch\TryCatch\obj\Debug\net7.0\ref\TryCatch.dll

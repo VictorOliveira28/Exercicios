@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\TrabArquivos\TrabArquivos\bin\Debug\net7.0\TrabArquivos.exe
+C:\Users\marcu\Documents\ProjetoCSharp\TrabArquivos\TrabArquivos\bin\Debug\net7.0\TrabArquivos.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\TrabArquivos\TrabArquivos\bin\Debug\net7.0\TrabArquivos.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\TrabArquivos\TrabArquivos\bin\Debug\net7.0\TrabArquivos.dll
+C:\Users\marcu\Documents\ProjetoCSharp\TrabArquivos\TrabArquivos\bin\Debug\net7.0\TrabArquivos.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\TrabArquivos\TrabArquivos\obj\Debug\net7.0\TrabArquivos.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\TrabArquivos\TrabArquivos\obj\Debug\net7.0\TrabArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\TrabArquivos\TrabArquivos\obj\Debug\net7.0\TrabArquivos.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\TrabArquivos\TrabArquivos\obj\Debug\net7.0\TrabArquivos.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\TrabArquivos\TrabArquivos\obj\Debug\net7.0\TrabArquivos.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\TrabArquivos\TrabArquivos\obj\Debug\net7.0\TrabArquivos.dll
+C:\Users\marcu\Documents\ProjetoCSharp\TrabArquivos\TrabArquivos\obj\Debug\net7.0\refint\TrabArquivos.dll
+C:\Users\marcu\Documents\ProjetoCSharp\TrabArquivos\TrabArquivos\obj\Debug\net7.0\TrabArquivos.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\TrabArquivos\TrabArquivos\obj\Debug\net7.0\TrabArquivos.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\TrabArquivos\TrabArquivos\obj\Debug\net7.0\ref\TrabArquivos.dll

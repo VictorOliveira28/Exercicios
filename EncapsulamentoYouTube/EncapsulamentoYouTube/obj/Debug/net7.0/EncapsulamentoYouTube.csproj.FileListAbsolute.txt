@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\bin\Debug\net7.0\EncapsulamentoYouTube.exe
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\bin\Debug\net7.0\EncapsulamentoYouTube.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\bin\Debug\net7.0\EncapsulamentoYouTube.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\bin\Debug\net7.0\EncapsulamentoYouTube.dll
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\bin\Debug\net7.0\EncapsulamentoYouTube.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\obj\Debug\net7.0\EncapsulamentoYouTube.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\obj\Debug\net7.0\EncapsulamentoYouTube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\obj\Debug\net7.0\EncapsulamentoYouTube.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\obj\Debug\net7.0\EncapsulamentoYouTube.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\obj\Debug\net7.0\EncapsulamentoYouTube.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\obj\Debug\net7.0\EncapsulamentoYouTube.dll
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\obj\Debug\net7.0\refint\EncapsulamentoYouTube.dll
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\obj\Debug\net7.0\EncapsulamentoYouTube.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\obj\Debug\net7.0\EncapsulamentoYouTube.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\obj\Debug\net7.0\ref\EncapsulamentoYouTube.dll

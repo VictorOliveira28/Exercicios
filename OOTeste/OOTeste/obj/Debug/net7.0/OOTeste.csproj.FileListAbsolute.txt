@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\OOTeste\OOTeste\bin\Debug\net7.0\OOTeste.exe
+C:\Users\marcu\Documents\ProjetoCSharp\OOTeste\OOTeste\bin\Debug\net7.0\OOTeste.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\OOTeste\OOTeste\bin\Debug\net7.0\OOTeste.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\OOTeste\OOTeste\bin\Debug\net7.0\OOTeste.dll
+C:\Users\marcu\Documents\ProjetoCSharp\OOTeste\OOTeste\bin\Debug\net7.0\OOTeste.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\OOTeste\OOTeste\obj\Debug\net7.0\OOTeste.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\OOTeste\OOTeste\obj\Debug\net7.0\OOTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\OOTeste\OOTeste\obj\Debug\net7.0\OOTeste.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\OOTeste\OOTeste\obj\Debug\net7.0\OOTeste.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\OOTeste\OOTeste\obj\Debug\net7.0\OOTeste.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\OOTeste\OOTeste\obj\Debug\net7.0\OOTeste.dll
+C:\Users\marcu\Documents\ProjetoCSharp\OOTeste\OOTeste\obj\Debug\net7.0\refint\OOTeste.dll
+C:\Users\marcu\Documents\ProjetoCSharp\OOTeste\OOTeste\obj\Debug\net7.0\OOTeste.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\OOTeste\OOTeste\obj\Debug\net7.0\OOTeste.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\OOTeste\OOTeste\obj\Debug\net7.0\ref\OOTeste.dll

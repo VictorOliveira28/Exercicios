@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\RetanguloPOO\RetanguloPOO\bin\Debug\net6.0\RetanguloPOO.exe
+C:\Users\marcu\Documents\ProjetoCSharp\RetanguloPOO\RetanguloPOO\bin\Debug\net6.0\RetanguloPOO.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\RetanguloPOO\RetanguloPOO\bin\Debug\net6.0\RetanguloPOO.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\RetanguloPOO\RetanguloPOO\bin\Debug\net6.0\RetanguloPOO.dll
+C:\Users\marcu\Documents\ProjetoCSharp\RetanguloPOO\RetanguloPOO\bin\Debug\net6.0\RetanguloPOO.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\RetanguloPOO\RetanguloPOO\obj\Debug\net6.0\RetanguloPOO.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\RetanguloPOO\RetanguloPOO\obj\Debug\net6.0\RetanguloPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\RetanguloPOO\RetanguloPOO\obj\Debug\net6.0\RetanguloPOO.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\RetanguloPOO\RetanguloPOO\obj\Debug\net6.0\RetanguloPOO.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\RetanguloPOO\RetanguloPOO\obj\Debug\net6.0\RetanguloPOO.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\RetanguloPOO\RetanguloPOO\obj\Debug\net6.0\RetanguloPOO.dll
+C:\Users\marcu\Documents\ProjetoCSharp\RetanguloPOO\RetanguloPOO\obj\Debug\net6.0\refint\RetanguloPOO.dll
+C:\Users\marcu\Documents\ProjetoCSharp\RetanguloPOO\RetanguloPOO\obj\Debug\net6.0\RetanguloPOO.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\RetanguloPOO\RetanguloPOO\obj\Debug\net6.0\RetanguloPOO.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\RetanguloPOO\RetanguloPOO\obj\Debug\net6.0\ref\RetanguloPOO.dll

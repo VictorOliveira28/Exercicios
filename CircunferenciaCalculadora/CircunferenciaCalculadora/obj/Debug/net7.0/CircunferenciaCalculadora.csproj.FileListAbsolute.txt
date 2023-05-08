@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaCalculadora\CircunferenciaCalculadora\bin\Debug\net7.0\CircunferenciaCalculadora.exe
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaCalculadora\CircunferenciaCalculadora\bin\Debug\net7.0\CircunferenciaCalculadora.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaCalculadora\CircunferenciaCalculadora\bin\Debug\net7.0\CircunferenciaCalculadora.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaCalculadora\CircunferenciaCalculadora\bin\Debug\net7.0\CircunferenciaCalculadora.dll
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaCalculadora\CircunferenciaCalculadora\bin\Debug\net7.0\CircunferenciaCalculadora.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaCalculadora\CircunferenciaCalculadora\obj\Debug\net7.0\CircunferenciaCalculadora.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaCalculadora\CircunferenciaCalculadora\obj\Debug\net7.0\CircunferenciaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaCalculadora\CircunferenciaCalculadora\obj\Debug\net7.0\CircunferenciaCalculadora.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaCalculadora\CircunferenciaCalculadora\obj\Debug\net7.0\CircunferenciaCalculadora.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaCalculadora\CircunferenciaCalculadora\obj\Debug\net7.0\CircunferenciaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaCalculadora\CircunferenciaCalculadora\obj\Debug\net7.0\CircunferenciaCalculadora.dll
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaCalculadora\CircunferenciaCalculadora\obj\Debug\net7.0\refint\CircunferenciaCalculadora.dll
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaCalculadora\CircunferenciaCalculadora\obj\Debug\net7.0\CircunferenciaCalculadora.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaCalculadora\CircunferenciaCalculadora\obj\Debug\net7.0\CircunferenciaCalculadora.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaCalculadora\CircunferenciaCalculadora\obj\Debug\net7.0\ref\CircunferenciaCalculadora.dll

@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\MetodosAbstratos\MetodosAbstratos\bin\Debug\net7.0\MetodosAbstratos.exe
+C:\Users\marcu\Documents\ProjetoCSharp\MetodosAbstratos\MetodosAbstratos\bin\Debug\net7.0\MetodosAbstratos.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\MetodosAbstratos\MetodosAbstratos\bin\Debug\net7.0\MetodosAbstratos.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\MetodosAbstratos\MetodosAbstratos\bin\Debug\net7.0\MetodosAbstratos.dll
+C:\Users\marcu\Documents\ProjetoCSharp\MetodosAbstratos\MetodosAbstratos\bin\Debug\net7.0\MetodosAbstratos.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\MetodosAbstratos\MetodosAbstratos\obj\Debug\net7.0\MetodosAbstratos.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\MetodosAbstratos\MetodosAbstratos\obj\Debug\net7.0\MetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\MetodosAbstratos\MetodosAbstratos\obj\Debug\net7.0\MetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\MetodosAbstratos\MetodosAbstratos\obj\Debug\net7.0\MetodosAbstratos.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\MetodosAbstratos\MetodosAbstratos\obj\Debug\net7.0\MetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\MetodosAbstratos\MetodosAbstratos\obj\Debug\net7.0\MetodosAbstratos.dll
+C:\Users\marcu\Documents\ProjetoCSharp\MetodosAbstratos\MetodosAbstratos\obj\Debug\net7.0\refint\MetodosAbstratos.dll
+C:\Users\marcu\Documents\ProjetoCSharp\MetodosAbstratos\MetodosAbstratos\obj\Debug\net7.0\MetodosAbstratos.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\MetodosAbstratos\MetodosAbstratos\obj\Debug\net7.0\MetodosAbstratos.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\MetodosAbstratos\MetodosAbstratos\obj\Debug\net7.0\ref\MetodosAbstratos.dll

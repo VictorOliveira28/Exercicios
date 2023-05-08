@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\bin\Debug\net7.0\Heranca.exe
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\bin\Debug\net7.0\Heranca.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\bin\Debug\net7.0\Heranca.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\bin\Debug\net7.0\Heranca.dll
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\bin\Debug\net7.0\Heranca.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\obj\Debug\net7.0\Heranca.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\obj\Debug\net7.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\obj\Debug\net7.0\Heranca.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\obj\Debug\net7.0\Heranca.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\obj\Debug\net7.0\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\obj\Debug\net7.0\Heranca.dll
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\obj\Debug\net7.0\refint\Heranca.dll
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\obj\Debug\net7.0\Heranca.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\obj\Debug\net7.0\Heranca.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\EncapsulamentoYouTube\EncapsulamentoYouTube\obj\Debug\net7.0\ref\Heranca.dll

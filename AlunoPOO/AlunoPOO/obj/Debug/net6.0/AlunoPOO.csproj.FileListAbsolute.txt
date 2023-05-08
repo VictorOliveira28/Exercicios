@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\AlunoPOO\AlunoPOO\bin\Debug\net6.0\AlunoPOO.exe
+C:\Users\marcu\Documents\ProjetoCSharp\AlunoPOO\AlunoPOO\bin\Debug\net6.0\AlunoPOO.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\AlunoPOO\AlunoPOO\bin\Debug\net6.0\AlunoPOO.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\AlunoPOO\AlunoPOO\bin\Debug\net6.0\AlunoPOO.dll
+C:\Users\marcu\Documents\ProjetoCSharp\AlunoPOO\AlunoPOO\bin\Debug\net6.0\AlunoPOO.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\AlunoPOO\AlunoPOO\obj\Debug\net6.0\AlunoPOO.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\AlunoPOO\AlunoPOO\obj\Debug\net6.0\AlunoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\AlunoPOO\AlunoPOO\obj\Debug\net6.0\AlunoPOO.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\AlunoPOO\AlunoPOO\obj\Debug\net6.0\AlunoPOO.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\AlunoPOO\AlunoPOO\obj\Debug\net6.0\AlunoPOO.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\AlunoPOO\AlunoPOO\obj\Debug\net6.0\AlunoPOO.dll
+C:\Users\marcu\Documents\ProjetoCSharp\AlunoPOO\AlunoPOO\obj\Debug\net6.0\refint\AlunoPOO.dll
+C:\Users\marcu\Documents\ProjetoCSharp\AlunoPOO\AlunoPOO\obj\Debug\net6.0\AlunoPOO.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\AlunoPOO\AlunoPOO\obj\Debug\net6.0\AlunoPOO.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\AlunoPOO\AlunoPOO\obj\Debug\net6.0\ref\AlunoPOO.dll

@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\ConversorMoedaPOO\ConversorMoedaPOO\bin\Debug\net7.0\ConversorMoedaPOO.exe
+C:\Users\marcu\Documents\ProjetoCSharp\ConversorMoedaPOO\ConversorMoedaPOO\bin\Debug\net7.0\ConversorMoedaPOO.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\ConversorMoedaPOO\ConversorMoedaPOO\bin\Debug\net7.0\ConversorMoedaPOO.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\ConversorMoedaPOO\ConversorMoedaPOO\bin\Debug\net7.0\ConversorMoedaPOO.dll
+C:\Users\marcu\Documents\ProjetoCSharp\ConversorMoedaPOO\ConversorMoedaPOO\bin\Debug\net7.0\ConversorMoedaPOO.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\ConversorMoedaPOO\ConversorMoedaPOO\obj\Debug\net7.0\ConversorMoedaPOO.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ConversorMoedaPOO\ConversorMoedaPOO\obj\Debug\net7.0\ConversorMoedaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\ConversorMoedaPOO\ConversorMoedaPOO\obj\Debug\net7.0\ConversorMoedaPOO.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ConversorMoedaPOO\ConversorMoedaPOO\obj\Debug\net7.0\ConversorMoedaPOO.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\ConversorMoedaPOO\ConversorMoedaPOO\obj\Debug\net7.0\ConversorMoedaPOO.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ConversorMoedaPOO\ConversorMoedaPOO\obj\Debug\net7.0\ConversorMoedaPOO.dll
+C:\Users\marcu\Documents\ProjetoCSharp\ConversorMoedaPOO\ConversorMoedaPOO\obj\Debug\net7.0\refint\ConversorMoedaPOO.dll
+C:\Users\marcu\Documents\ProjetoCSharp\ConversorMoedaPOO\ConversorMoedaPOO\obj\Debug\net7.0\ConversorMoedaPOO.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\ConversorMoedaPOO\ConversorMoedaPOO\obj\Debug\net7.0\ConversorMoedaPOO.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ConversorMoedaPOO\ConversorMoedaPOO\obj\Debug\net7.0\ref\ConversorMoedaPOO.dll

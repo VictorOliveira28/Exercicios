@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Vetor\Vetor\bin\Debug\net7.0\Vetor.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Vetor\Vetor\bin\Debug\net7.0\Vetor.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Vetor\Vetor\bin\Debug\net7.0\Vetor.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Vetor\Vetor\bin\Debug\net7.0\Vetor.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Vetor\Vetor\bin\Debug\net7.0\Vetor.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Vetor\Vetor\obj\Debug\net7.0\Vetor.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Vetor\Vetor\obj\Debug\net7.0\Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Vetor\Vetor\obj\Debug\net7.0\Vetor.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Vetor\Vetor\obj\Debug\net7.0\Vetor.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Vetor\Vetor\obj\Debug\net7.0\Vetor.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Vetor\Vetor\obj\Debug\net7.0\Vetor.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Vetor\Vetor\obj\Debug\net7.0\refint\Vetor.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Vetor\Vetor\obj\Debug\net7.0\Vetor.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Vetor\Vetor\obj\Debug\net7.0\Vetor.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Vetor\Vetor\obj\Debug\net7.0\ref\Vetor.dll

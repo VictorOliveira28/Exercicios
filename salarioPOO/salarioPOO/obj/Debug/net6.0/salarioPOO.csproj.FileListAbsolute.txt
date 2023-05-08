@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\salarioPOO\salarioPOO\bin\Debug\net6.0\salarioPOO.exe
+C:\Users\marcu\Documents\ProjetoCSharp\salarioPOO\salarioPOO\bin\Debug\net6.0\salarioPOO.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\salarioPOO\salarioPOO\bin\Debug\net6.0\salarioPOO.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\salarioPOO\salarioPOO\bin\Debug\net6.0\salarioPOO.dll
+C:\Users\marcu\Documents\ProjetoCSharp\salarioPOO\salarioPOO\bin\Debug\net6.0\salarioPOO.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\salarioPOO\salarioPOO\obj\Debug\net6.0\salarioPOO.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\salarioPOO\salarioPOO\obj\Debug\net6.0\salarioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\salarioPOO\salarioPOO\obj\Debug\net6.0\salarioPOO.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\salarioPOO\salarioPOO\obj\Debug\net6.0\salarioPOO.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\salarioPOO\salarioPOO\obj\Debug\net6.0\salarioPOO.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\salarioPOO\salarioPOO\obj\Debug\net6.0\salarioPOO.dll
+C:\Users\marcu\Documents\ProjetoCSharp\salarioPOO\salarioPOO\obj\Debug\net6.0\refint\salarioPOO.dll
+C:\Users\marcu\Documents\ProjetoCSharp\salarioPOO\salarioPOO\obj\Debug\net6.0\salarioPOO.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\salarioPOO\salarioPOO\obj\Debug\net6.0\salarioPOO.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\salarioPOO\salarioPOO\obj\Debug\net6.0\ref\salarioPOO.dll

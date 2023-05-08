@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\CalcularContrato\CalcularContrato\bin\Debug\net7.0\CalcularContrato.exe
+C:\Users\marcu\Documents\ProjetoCSharp\CalcularContrato\CalcularContrato\bin\Debug\net7.0\CalcularContrato.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\CalcularContrato\CalcularContrato\bin\Debug\net7.0\CalcularContrato.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\CalcularContrato\CalcularContrato\bin\Debug\net7.0\CalcularContrato.dll
+C:\Users\marcu\Documents\ProjetoCSharp\CalcularContrato\CalcularContrato\bin\Debug\net7.0\CalcularContrato.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\CalcularContrato\CalcularContrato\obj\Debug\net7.0\CalcularContrato.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\CalcularContrato\CalcularContrato\obj\Debug\net7.0\CalcularContrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\CalcularContrato\CalcularContrato\obj\Debug\net7.0\CalcularContrato.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\CalcularContrato\CalcularContrato\obj\Debug\net7.0\CalcularContrato.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\CalcularContrato\CalcularContrato\obj\Debug\net7.0\CalcularContrato.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\CalcularContrato\CalcularContrato\obj\Debug\net7.0\CalcularContrato.dll
+C:\Users\marcu\Documents\ProjetoCSharp\CalcularContrato\CalcularContrato\obj\Debug\net7.0\refint\CalcularContrato.dll
+C:\Users\marcu\Documents\ProjetoCSharp\CalcularContrato\CalcularContrato\obj\Debug\net7.0\CalcularContrato.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\CalcularContrato\CalcularContrato\obj\Debug\net7.0\CalcularContrato.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\CalcularContrato\CalcularContrato\obj\Debug\net7.0\ref\CalcularContrato.dll

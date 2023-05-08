@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\StreamWriter\StreamWriter\bin\Debug\net7.0\StWriter.exe
+C:\Users\marcu\Documents\ProjetoCSharp\StreamWriter\StreamWriter\bin\Debug\net7.0\StWriter.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\StreamWriter\StreamWriter\bin\Debug\net7.0\StWriter.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\StreamWriter\StreamWriter\bin\Debug\net7.0\StWriter.dll
+C:\Users\marcu\Documents\ProjetoCSharp\StreamWriter\StreamWriter\bin\Debug\net7.0\StWriter.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\StreamWriter\StreamWriter\obj\Debug\net7.0\StWriter.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\StreamWriter\StreamWriter\obj\Debug\net7.0\StWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\StreamWriter\StreamWriter\obj\Debug\net7.0\StWriter.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\StreamWriter\StreamWriter\obj\Debug\net7.0\StWriter.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\StreamWriter\StreamWriter\obj\Debug\net7.0\StWriter.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\StreamWriter\StreamWriter\obj\Debug\net7.0\StWriter.dll
+C:\Users\marcu\Documents\ProjetoCSharp\StreamWriter\StreamWriter\obj\Debug\net7.0\refint\StWriter.dll
+C:\Users\marcu\Documents\ProjetoCSharp\StreamWriter\StreamWriter\obj\Debug\net7.0\StWriter.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\StreamWriter\StreamWriter\obj\Debug\net7.0\StWriter.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\StreamWriter\StreamWriter\obj\Debug\net7.0\ref\StWriter.dll

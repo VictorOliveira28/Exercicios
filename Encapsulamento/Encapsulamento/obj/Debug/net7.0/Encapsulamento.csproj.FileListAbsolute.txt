@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Encapsulamento\Encapsulamento\bin\Debug\net7.0\Encapsulamento.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Encapsulamento\Encapsulamento\bin\Debug\net7.0\Encapsulamento.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Encapsulamento\Encapsulamento\bin\Debug\net7.0\Encapsulamento.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Encapsulamento\Encapsulamento\bin\Debug\net7.0\Encapsulamento.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Encapsulamento\Encapsulamento\bin\Debug\net7.0\Encapsulamento.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Encapsulamento\Encapsulamento\obj\Debug\net7.0\refint\Encapsulamento.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Encapsulamento\Encapsulamento\obj\Debug\net7.0\ref\Encapsulamento.dll

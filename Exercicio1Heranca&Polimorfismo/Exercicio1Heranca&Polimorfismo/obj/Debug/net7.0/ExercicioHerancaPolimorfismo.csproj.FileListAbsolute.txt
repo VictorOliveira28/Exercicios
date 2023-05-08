@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicio1Heranca&Polimorfismo\Exercicio1Heranca&Polimorfismo\bin\Debug\net7.0\ExercicioHerancaPolimorfismo.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicio1Heranca&Polimorfismo\Exercicio1Heranca&Polimorfismo\bin\Debug\net7.0\ExercicioHerancaPolimorfismo.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicio1Heranca&Polimorfismo\Exercicio1Heranca&Polimorfismo\bin\Debug\net7.0\ExercicioHerancaPolimorfismo.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicio1Heranca&Polimorfismo\Exercicio1Heranca&Polimorfismo\bin\Debug\net7.0\ExercicioHerancaPolimorfismo.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicio1Heranca&Polimorfismo\Exercicio1Heranca&Polimorfismo\bin\Debug\net7.0\ExercicioHerancaPolimorfismo.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicio1Heranca&Polimorfismo\Exercicio1Heranca&Polimorfismo\obj\Debug\net7.0\ExercicioHerancaPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicio1Heranca&Polimorfismo\Exercicio1Heranca&Polimorfismo\obj\Debug\net7.0\ExercicioHerancaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicio1Heranca&Polimorfismo\Exercicio1Heranca&Polimorfismo\obj\Debug\net7.0\ExercicioHerancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicio1Heranca&Polimorfismo\Exercicio1Heranca&Polimorfismo\obj\Debug\net7.0\ExercicioHerancaPolimorfismo.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicio1Heranca&Polimorfismo\Exercicio1Heranca&Polimorfismo\obj\Debug\net7.0\ExercicioHerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicio1Heranca&Polimorfismo\Exercicio1Heranca&Polimorfismo\obj\Debug\net7.0\ExercicioHerancaPolimorfismo.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicio1Heranca&Polimorfismo\Exercicio1Heranca&Polimorfismo\obj\Debug\net7.0\refint\ExercicioHerancaPolimorfismo.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicio1Heranca&Polimorfismo\Exercicio1Heranca&Polimorfismo\obj\Debug\net7.0\ExercicioHerancaPolimorfismo.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicio1Heranca&Polimorfismo\Exercicio1Heranca&Polimorfismo\obj\Debug\net7.0\ExercicioHerancaPolimorfismo.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicio1Heranca&Polimorfismo\Exercicio1Heranca&Polimorfismo\obj\Debug\net7.0\ref\ExercicioHerancaPolimorfismo.dll

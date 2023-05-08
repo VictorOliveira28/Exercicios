@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\AumentoSalarioPOO\AumentoSalarioPOO\bin\Debug\net6.0\AumentoSalarioPOO.exe
+C:\Users\marcu\Documents\ProjetoCSharp\AumentoSalarioPOO\AumentoSalarioPOO\bin\Debug\net6.0\AumentoSalarioPOO.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\AumentoSalarioPOO\AumentoSalarioPOO\bin\Debug\net6.0\AumentoSalarioPOO.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\AumentoSalarioPOO\AumentoSalarioPOO\bin\Debug\net6.0\AumentoSalarioPOO.dll
+C:\Users\marcu\Documents\ProjetoCSharp\AumentoSalarioPOO\AumentoSalarioPOO\bin\Debug\net6.0\AumentoSalarioPOO.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\AumentoSalarioPOO\AumentoSalarioPOO\obj\Debug\net6.0\AumentoSalarioPOO.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\AumentoSalarioPOO\AumentoSalarioPOO\obj\Debug\net6.0\AumentoSalarioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\AumentoSalarioPOO\AumentoSalarioPOO\obj\Debug\net6.0\AumentoSalarioPOO.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\AumentoSalarioPOO\AumentoSalarioPOO\obj\Debug\net6.0\AumentoSalarioPOO.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\AumentoSalarioPOO\AumentoSalarioPOO\obj\Debug\net6.0\AumentoSalarioPOO.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\AumentoSalarioPOO\AumentoSalarioPOO\obj\Debug\net6.0\AumentoSalarioPOO.dll
+C:\Users\marcu\Documents\ProjetoCSharp\AumentoSalarioPOO\AumentoSalarioPOO\obj\Debug\net6.0\refint\AumentoSalarioPOO.dll
+C:\Users\marcu\Documents\ProjetoCSharp\AumentoSalarioPOO\AumentoSalarioPOO\obj\Debug\net6.0\AumentoSalarioPOO.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\AumentoSalarioPOO\AumentoSalarioPOO\obj\Debug\net6.0\AumentoSalarioPOO.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\AumentoSalarioPOO\AumentoSalarioPOO\obj\Debug\net6.0\ref\AumentoSalarioPOO.dll

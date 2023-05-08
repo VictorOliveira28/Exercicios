@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\ExTryCatch\ExTryCatch\bin\Debug\net7.0\ExTryCatch.exe
+C:\Users\marcu\Documents\ProjetoCSharp\ExTryCatch\ExTryCatch\bin\Debug\net7.0\ExTryCatch.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\ExTryCatch\ExTryCatch\bin\Debug\net7.0\ExTryCatch.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\ExTryCatch\ExTryCatch\bin\Debug\net7.0\ExTryCatch.dll
+C:\Users\marcu\Documents\ProjetoCSharp\ExTryCatch\ExTryCatch\bin\Debug\net7.0\ExTryCatch.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\ExTryCatch\ExTryCatch\obj\Debug\net7.0\ExTryCatch.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ExTryCatch\ExTryCatch\obj\Debug\net7.0\ExTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\ExTryCatch\ExTryCatch\obj\Debug\net7.0\ExTryCatch.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ExTryCatch\ExTryCatch\obj\Debug\net7.0\ExTryCatch.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\ExTryCatch\ExTryCatch\obj\Debug\net7.0\ExTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ExTryCatch\ExTryCatch\obj\Debug\net7.0\ExTryCatch.dll
+C:\Users\marcu\Documents\ProjetoCSharp\ExTryCatch\ExTryCatch\obj\Debug\net7.0\refint\ExTryCatch.dll
+C:\Users\marcu\Documents\ProjetoCSharp\ExTryCatch\ExTryCatch\obj\Debug\net7.0\ExTryCatch.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\ExTryCatch\ExTryCatch\obj\Debug\net7.0\ExTryCatch.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ExTryCatch\ExTryCatch\obj\Debug\net7.0\ref\ExTryCatch.dll

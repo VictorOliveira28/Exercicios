@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioProposto\ExercicioProposto\bin\Debug\net6.0\ExercicioProposto.exe
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioProposto\ExercicioProposto\bin\Debug\net6.0\ExercicioProposto.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioProposto\ExercicioProposto\bin\Debug\net6.0\ExercicioProposto.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioProposto\ExercicioProposto\bin\Debug\net6.0\ExercicioProposto.dll
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioProposto\ExercicioProposto\bin\Debug\net6.0\ExercicioProposto.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioProposto\ExercicioProposto\obj\Debug\net6.0\ExercicioProposto.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioProposto\ExercicioProposto\obj\Debug\net6.0\ExercicioProposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioProposto\ExercicioProposto\obj\Debug\net6.0\ExercicioProposto.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioProposto\ExercicioProposto\obj\Debug\net6.0\ExercicioProposto.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioProposto\ExercicioProposto\obj\Debug\net6.0\ExercicioProposto.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioProposto\ExercicioProposto\obj\Debug\net6.0\ExercicioProposto.dll
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioProposto\ExercicioProposto\obj\Debug\net6.0\refint\ExercicioProposto.dll
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioProposto\ExercicioProposto\obj\Debug\net6.0\ExercicioProposto.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioProposto\ExercicioProposto\obj\Debug\net6.0\ExercicioProposto.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\ExercicioProposto\ExercicioProposto\obj\Debug\net6.0\ref\ExercicioProposto.dll

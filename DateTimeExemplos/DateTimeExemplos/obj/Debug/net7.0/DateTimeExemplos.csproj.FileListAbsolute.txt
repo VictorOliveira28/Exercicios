@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\DateTimeExemplos\DateTimeExemplos\bin\Debug\net7.0\DateTimeExemplos.exe
+C:\Users\marcu\Documents\ProjetoCSharp\DateTimeExemplos\DateTimeExemplos\bin\Debug\net7.0\DateTimeExemplos.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\DateTimeExemplos\DateTimeExemplos\bin\Debug\net7.0\DateTimeExemplos.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\DateTimeExemplos\DateTimeExemplos\bin\Debug\net7.0\DateTimeExemplos.dll
+C:\Users\marcu\Documents\ProjetoCSharp\DateTimeExemplos\DateTimeExemplos\bin\Debug\net7.0\DateTimeExemplos.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\DateTimeExemplos\DateTimeExemplos\obj\Debug\net7.0\DateTimeExemplos.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\DateTimeExemplos\DateTimeExemplos\obj\Debug\net7.0\DateTimeExemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\DateTimeExemplos\DateTimeExemplos\obj\Debug\net7.0\DateTimeExemplos.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\DateTimeExemplos\DateTimeExemplos\obj\Debug\net7.0\DateTimeExemplos.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\DateTimeExemplos\DateTimeExemplos\obj\Debug\net7.0\DateTimeExemplos.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\DateTimeExemplos\DateTimeExemplos\obj\Debug\net7.0\DateTimeExemplos.dll
+C:\Users\marcu\Documents\ProjetoCSharp\DateTimeExemplos\DateTimeExemplos\obj\Debug\net7.0\refint\DateTimeExemplos.dll
+C:\Users\marcu\Documents\ProjetoCSharp\DateTimeExemplos\DateTimeExemplos\obj\Debug\net7.0\DateTimeExemplos.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\DateTimeExemplos\DateTimeExemplos\obj\Debug\net7.0\DateTimeExemplos.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\DateTimeExemplos\DateTimeExemplos\obj\Debug\net7.0\ref\DateTimeExemplos.dll

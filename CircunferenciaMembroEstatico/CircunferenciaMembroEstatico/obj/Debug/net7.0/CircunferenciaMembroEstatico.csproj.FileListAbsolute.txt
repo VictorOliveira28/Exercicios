@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaMembroEstatico\CircunferenciaMembroEstatico\bin\Debug\net7.0\CircunferenciaMembroEstatico.exe
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaMembroEstatico\CircunferenciaMembroEstatico\bin\Debug\net7.0\CircunferenciaMembroEstatico.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaMembroEstatico\CircunferenciaMembroEstatico\bin\Debug\net7.0\CircunferenciaMembroEstatico.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaMembroEstatico\CircunferenciaMembroEstatico\bin\Debug\net7.0\CircunferenciaMembroEstatico.dll
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaMembroEstatico\CircunferenciaMembroEstatico\bin\Debug\net7.0\CircunferenciaMembroEstatico.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaMembroEstatico\CircunferenciaMembroEstatico\obj\Debug\net7.0\CircunferenciaMembroEstatico.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaMembroEstatico\CircunferenciaMembroEstatico\obj\Debug\net7.0\CircunferenciaMembroEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaMembroEstatico\CircunferenciaMembroEstatico\obj\Debug\net7.0\CircunferenciaMembroEstatico.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaMembroEstatico\CircunferenciaMembroEstatico\obj\Debug\net7.0\CircunferenciaMembroEstatico.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaMembroEstatico\CircunferenciaMembroEstatico\obj\Debug\net7.0\CircunferenciaMembroEstatico.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaMembroEstatico\CircunferenciaMembroEstatico\obj\Debug\net7.0\CircunferenciaMembroEstatico.dll
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaMembroEstatico\CircunferenciaMembroEstatico\obj\Debug\net7.0\refint\CircunferenciaMembroEstatico.dll
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaMembroEstatico\CircunferenciaMembroEstatico\obj\Debug\net7.0\CircunferenciaMembroEstatico.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaMembroEstatico\CircunferenciaMembroEstatico\obj\Debug\net7.0\CircunferenciaMembroEstatico.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\CircunferenciaMembroEstatico\CircunferenciaMembroEstatico\obj\Debug\net7.0\ref\CircunferenciaMembroEstatico.dll
