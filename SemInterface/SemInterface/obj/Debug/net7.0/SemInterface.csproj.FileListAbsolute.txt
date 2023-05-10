@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SemInterface\SemInterface\obj\Debug\net7.0\SemInterface.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SemInterface\SemInterface\obj\Debug\net7.0\SemInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SemInterface\SemInterface\obj\Debug\net7.0\SemInterface.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SemInterface\SemInterface\obj\Debug\net7.0\SemInterface.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SemInterface\SemInterface\obj\Debug\net7.0\SemInterface.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SemInterface\SemInterface\bin\Debug\net7.0\SemInterface.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SemInterface\SemInterface\bin\Debug\net7.0\SemInterface.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SemInterface\SemInterface\bin\Debug\net7.0\SemInterface.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SemInterface\SemInterface\bin\Debug\net7.0\SemInterface.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SemInterface\SemInterface\bin\Debug\net7.0\SemInterface.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SemInterface\SemInterface\obj\Debug\net7.0\SemInterface.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SemInterface\SemInterface\obj\Debug\net7.0\refint\SemInterface.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SemInterface\SemInterface\obj\Debug\net7.0\SemInterface.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SemInterface\SemInterface\obj\Debug\net7.0\SemInterface.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SemInterface\SemInterface\obj\Debug\net7.0\ref\SemInterface.dll
