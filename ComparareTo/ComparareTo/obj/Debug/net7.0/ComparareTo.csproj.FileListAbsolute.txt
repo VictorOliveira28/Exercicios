@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ComparareTo\ComparareTo\bin\Debug\net7.0\ComparareTo.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ComparareTo\ComparareTo\bin\Debug\net7.0\ComparareTo.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ComparareTo\ComparareTo\bin\Debug\net7.0\ComparareTo.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ComparareTo\ComparareTo\bin\Debug\net7.0\ComparareTo.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ComparareTo\ComparareTo\bin\Debug\net7.0\ComparareTo.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ComparareTo\ComparareTo\obj\Debug\net7.0\ComparareTo.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ComparareTo\ComparareTo\obj\Debug\net7.0\ComparareTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ComparareTo\ComparareTo\obj\Debug\net7.0\ComparareTo.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ComparareTo\ComparareTo\obj\Debug\net7.0\ComparareTo.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ComparareTo\ComparareTo\obj\Debug\net7.0\ComparareTo.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ComparareTo\ComparareTo\obj\Debug\net7.0\ComparareTo.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ComparareTo\ComparareTo\obj\Debug\net7.0\refint\ComparareTo.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ComparareTo\ComparareTo\obj\Debug\net7.0\ComparareTo.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ComparareTo\ComparareTo\obj\Debug\net7.0\ComparareTo.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ComparareTo\ComparareTo\obj\Debug\net7.0\ref\ComparareTo.dll
