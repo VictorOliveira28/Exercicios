@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\GenericsAula\GenericsAula\bin\Debug\net7.0\GenericsAula.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\GenericsAula\GenericsAula\bin\Debug\net7.0\GenericsAula.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\GenericsAula\GenericsAula\bin\Debug\net7.0\GenericsAula.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\GenericsAula\GenericsAula\bin\Debug\net7.0\GenericsAula.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\GenericsAula\GenericsAula\bin\Debug\net7.0\GenericsAula.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\GenericsAula\GenericsAula\obj\Debug\net7.0\GenericsAula.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\GenericsAula\GenericsAula\obj\Debug\net7.0\GenericsAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\GenericsAula\GenericsAula\obj\Debug\net7.0\GenericsAula.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\GenericsAula\GenericsAula\obj\Debug\net7.0\GenericsAula.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\GenericsAula\GenericsAula\obj\Debug\net7.0\GenericsAula.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\GenericsAula\GenericsAula\obj\Debug\net7.0\GenericsAula.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\GenericsAula\GenericsAula\obj\Debug\net7.0\refint\GenericsAula.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\GenericsAula\GenericsAula\obj\Debug\net7.0\GenericsAula.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\GenericsAula\GenericsAula\obj\Debug\net7.0\GenericsAula.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\GenericsAula\GenericsAula\obj\Debug\net7.0\ref\GenericsAula.dll
