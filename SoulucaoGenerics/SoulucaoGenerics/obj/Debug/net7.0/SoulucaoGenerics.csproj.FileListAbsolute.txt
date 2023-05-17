@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SoulucaoGenerics\SoulucaoGenerics\bin\Debug\net7.0\SoulucaoGenerics.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SoulucaoGenerics\SoulucaoGenerics\bin\Debug\net7.0\SoulucaoGenerics.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SoulucaoGenerics\SoulucaoGenerics\bin\Debug\net7.0\SoulucaoGenerics.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SoulucaoGenerics\SoulucaoGenerics\bin\Debug\net7.0\SoulucaoGenerics.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SoulucaoGenerics\SoulucaoGenerics\bin\Debug\net7.0\SoulucaoGenerics.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SoulucaoGenerics\SoulucaoGenerics\obj\Debug\net7.0\SoulucaoGenerics.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SoulucaoGenerics\SoulucaoGenerics\obj\Debug\net7.0\SoulucaoGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SoulucaoGenerics\SoulucaoGenerics\obj\Debug\net7.0\SoulucaoGenerics.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SoulucaoGenerics\SoulucaoGenerics\obj\Debug\net7.0\SoulucaoGenerics.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SoulucaoGenerics\SoulucaoGenerics\obj\Debug\net7.0\SoulucaoGenerics.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SoulucaoGenerics\SoulucaoGenerics\obj\Debug\net7.0\SoulucaoGenerics.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SoulucaoGenerics\SoulucaoGenerics\obj\Debug\net7.0\refint\SoulucaoGenerics.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SoulucaoGenerics\SoulucaoGenerics\obj\Debug\net7.0\SoulucaoGenerics.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SoulucaoGenerics\SoulucaoGenerics\obj\Debug\net7.0\SoulucaoGenerics.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\SoulucaoGenerics\SoulucaoGenerics\obj\Debug\net7.0\ref\SoulucaoGenerics.dll

@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\CalculationGenerics\CalculationGenerics\bin\Debug\net7.0\CalculationGenerics.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\CalculationGenerics\CalculationGenerics\bin\Debug\net7.0\CalculationGenerics.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\CalculationGenerics\CalculationGenerics\bin\Debug\net7.0\CalculationGenerics.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\CalculationGenerics\CalculationGenerics\bin\Debug\net7.0\CalculationGenerics.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\CalculationGenerics\CalculationGenerics\bin\Debug\net7.0\CalculationGenerics.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\CalculationGenerics\CalculationGenerics\obj\Debug\net7.0\CalculationGenerics.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\CalculationGenerics\CalculationGenerics\obj\Debug\net7.0\CalculationGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\CalculationGenerics\CalculationGenerics\obj\Debug\net7.0\CalculationGenerics.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\CalculationGenerics\CalculationGenerics\obj\Debug\net7.0\CalculationGenerics.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\CalculationGenerics\CalculationGenerics\obj\Debug\net7.0\CalculationGenerics.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\CalculationGenerics\CalculationGenerics\obj\Debug\net7.0\CalculationGenerics.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\CalculationGenerics\CalculationGenerics\obj\Debug\net7.0\refint\CalculationGenerics.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\CalculationGenerics\CalculationGenerics\obj\Debug\net7.0\CalculationGenerics.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\CalculationGenerics\CalculationGenerics\obj\Debug\net7.0\CalculationGenerics.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\CalculationGenerics\CalculationGenerics\obj\Debug\net7.0\ref\CalculationGenerics.dll
