@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\HashESortedSet\HashESortedSet\bin\Debug\net7.0\HashESortedSet.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\HashESortedSet\HashESortedSet\bin\Debug\net7.0\HashESortedSet.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\HashESortedSet\HashESortedSet\bin\Debug\net7.0\HashESortedSet.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\HashESortedSet\HashESortedSet\bin\Debug\net7.0\HashESortedSet.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\HashESortedSet\HashESortedSet\bin\Debug\net7.0\HashESortedSet.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\HashESortedSet\HashESortedSet\obj\Debug\net7.0\HashESortedSet.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\HashESortedSet\HashESortedSet\obj\Debug\net7.0\HashESortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\HashESortedSet\HashESortedSet\obj\Debug\net7.0\HashESortedSet.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\HashESortedSet\HashESortedSet\obj\Debug\net7.0\HashESortedSet.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\HashESortedSet\HashESortedSet\obj\Debug\net7.0\HashESortedSet.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\HashESortedSet\HashESortedSet\obj\Debug\net7.0\HashESortedSet.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\HashESortedSet\HashESortedSet\obj\Debug\net7.0\refint\HashESortedSet.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\HashESortedSet\HashESortedSet\obj\Debug\net7.0\HashESortedSet.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\HashESortedSet\HashESortedSet\obj\Debug\net7.0\HashESortedSet.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\HashESortedSet\HashESortedSet\obj\Debug\net7.0\ref\HashESortedSet.dll
