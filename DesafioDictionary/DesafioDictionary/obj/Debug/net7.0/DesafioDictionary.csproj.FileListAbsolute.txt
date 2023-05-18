@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DesafioDictionary\DesafioDictionary\bin\Debug\net7.0\DesafioDictionary.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DesafioDictionary\DesafioDictionary\bin\Debug\net7.0\DesafioDictionary.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DesafioDictionary\DesafioDictionary\bin\Debug\net7.0\DesafioDictionary.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DesafioDictionary\DesafioDictionary\bin\Debug\net7.0\DesafioDictionary.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DesafioDictionary\DesafioDictionary\bin\Debug\net7.0\DesafioDictionary.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DesafioDictionary\DesafioDictionary\obj\Debug\net7.0\DesafioDictionary.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DesafioDictionary\DesafioDictionary\obj\Debug\net7.0\DesafioDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DesafioDictionary\DesafioDictionary\obj\Debug\net7.0\DesafioDictionary.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DesafioDictionary\DesafioDictionary\obj\Debug\net7.0\DesafioDictionary.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DesafioDictionary\DesafioDictionary\obj\Debug\net7.0\DesafioDictionary.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DesafioDictionary\DesafioDictionary\obj\Debug\net7.0\DesafioDictionary.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DesafioDictionary\DesafioDictionary\obj\Debug\net7.0\refint\DesafioDictionary.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DesafioDictionary\DesafioDictionary\obj\Debug\net7.0\DesafioDictionary.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DesafioDictionary\DesafioDictionary\obj\Debug\net7.0\DesafioDictionary.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DesafioDictionary\DesafioDictionary\obj\Debug\net7.0\ref\DesafioDictionary.dll

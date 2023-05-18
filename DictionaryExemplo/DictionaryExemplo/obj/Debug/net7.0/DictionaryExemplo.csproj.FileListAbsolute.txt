@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DictionaryExemplo\DictionaryExemplo\bin\Debug\net7.0\DictionaryExemplo.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DictionaryExemplo\DictionaryExemplo\bin\Debug\net7.0\DictionaryExemplo.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DictionaryExemplo\DictionaryExemplo\bin\Debug\net7.0\DictionaryExemplo.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DictionaryExemplo\DictionaryExemplo\bin\Debug\net7.0\DictionaryExemplo.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DictionaryExemplo\DictionaryExemplo\bin\Debug\net7.0\DictionaryExemplo.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DictionaryExemplo\DictionaryExemplo\obj\Debug\net7.0\DictionaryExemplo.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DictionaryExemplo\DictionaryExemplo\obj\Debug\net7.0\DictionaryExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DictionaryExemplo\DictionaryExemplo\obj\Debug\net7.0\DictionaryExemplo.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DictionaryExemplo\DictionaryExemplo\obj\Debug\net7.0\DictionaryExemplo.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DictionaryExemplo\DictionaryExemplo\obj\Debug\net7.0\DictionaryExemplo.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DictionaryExemplo\DictionaryExemplo\obj\Debug\net7.0\DictionaryExemplo.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DictionaryExemplo\DictionaryExemplo\obj\Debug\net7.0\refint\DictionaryExemplo.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DictionaryExemplo\DictionaryExemplo\obj\Debug\net7.0\DictionaryExemplo.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DictionaryExemplo\DictionaryExemplo\obj\Debug\net7.0\DictionaryExemplo.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\DictionaryExemplo\DictionaryExemplo\obj\Debug\net7.0\ref\DictionaryExemplo.dll
