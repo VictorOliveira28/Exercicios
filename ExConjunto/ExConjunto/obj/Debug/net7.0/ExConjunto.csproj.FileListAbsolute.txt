@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExConjunto\ExConjunto\bin\Debug\net7.0\ExConjunto.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExConjunto\ExConjunto\bin\Debug\net7.0\ExConjunto.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExConjunto\ExConjunto\bin\Debug\net7.0\ExConjunto.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExConjunto\ExConjunto\bin\Debug\net7.0\ExConjunto.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExConjunto\ExConjunto\bin\Debug\net7.0\ExConjunto.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExConjunto\ExConjunto\obj\Debug\net7.0\ExConjunto.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExConjunto\ExConjunto\obj\Debug\net7.0\ExConjunto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExConjunto\ExConjunto\obj\Debug\net7.0\ExConjunto.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExConjunto\ExConjunto\obj\Debug\net7.0\ExConjunto.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExConjunto\ExConjunto\obj\Debug\net7.0\ExConjunto.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExConjunto\ExConjunto\obj\Debug\net7.0\ExConjunto.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExConjunto\ExConjunto\obj\Debug\net7.0\refint\ExConjunto.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExConjunto\ExConjunto\obj\Debug\net7.0\ExConjunto.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExConjunto\ExConjunto\obj\Debug\net7.0\ExConjunto.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExConjunto\ExConjunto\obj\Debug\net7.0\ref\ExConjunto.dll

@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioConjunto\ExercicioConjunto\bin\Debug\net7.0\ExercicioConjunto.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioConjunto\ExercicioConjunto\bin\Debug\net7.0\ExercicioConjunto.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioConjunto\ExercicioConjunto\bin\Debug\net7.0\ExercicioConjunto.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioConjunto\ExercicioConjunto\bin\Debug\net7.0\ExercicioConjunto.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioConjunto\ExercicioConjunto\bin\Debug\net7.0\ExercicioConjunto.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioConjunto\ExercicioConjunto\obj\Debug\net7.0\ExercicioConjunto.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioConjunto\ExercicioConjunto\obj\Debug\net7.0\ExercicioConjunto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioConjunto\ExercicioConjunto\obj\Debug\net7.0\ExercicioConjunto.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioConjunto\ExercicioConjunto\obj\Debug\net7.0\ExercicioConjunto.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioConjunto\ExercicioConjunto\obj\Debug\net7.0\ExercicioConjunto.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioConjunto\ExercicioConjunto\obj\Debug\net7.0\ExercicioConjunto.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioConjunto\ExercicioConjunto\obj\Debug\net7.0\refint\ExercicioConjunto.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioConjunto\ExercicioConjunto\obj\Debug\net7.0\ExercicioConjunto.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioConjunto\ExercicioConjunto\obj\Debug\net7.0\ExercicioConjunto.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioConjunto\ExercicioConjunto\obj\Debug\net7.0\ref\ExercicioConjunto.dll
