@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\IntroLinq\IntroLinq\bin\Debug\net7.0\IntroLinq.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\IntroLinq\IntroLinq\bin\Debug\net7.0\IntroLinq.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\IntroLinq\IntroLinq\bin\Debug\net7.0\IntroLinq.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\IntroLinq\IntroLinq\bin\Debug\net7.0\IntroLinq.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\IntroLinq\IntroLinq\bin\Debug\net7.0\IntroLinq.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\IntroLinq\IntroLinq\obj\Debug\net7.0\IntroLinq.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\IntroLinq\IntroLinq\obj\Debug\net7.0\IntroLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\IntroLinq\IntroLinq\obj\Debug\net7.0\IntroLinq.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\IntroLinq\IntroLinq\obj\Debug\net7.0\IntroLinq.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\IntroLinq\IntroLinq\obj\Debug\net7.0\IntroLinq.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\IntroLinq\IntroLinq\obj\Debug\net7.0\IntroLinq.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\IntroLinq\IntroLinq\obj\Debug\net7.0\refint\IntroLinq.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\IntroLinq\IntroLinq\obj\Debug\net7.0\IntroLinq.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\IntroLinq\IntroLinq\obj\Debug\net7.0\IntroLinq.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\IntroLinq\IntroLinq\obj\Debug\net7.0\ref\IntroLinq.dll
