@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\FuncSelect\FuncSelect\bin\Debug\net7.0\FuncSelect.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\FuncSelect\FuncSelect\bin\Debug\net7.0\FuncSelect.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\FuncSelect\FuncSelect\bin\Debug\net7.0\FuncSelect.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\FuncSelect\FuncSelect\bin\Debug\net7.0\FuncSelect.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\FuncSelect\FuncSelect\bin\Debug\net7.0\FuncSelect.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\FuncSelect\FuncSelect\obj\Debug\net7.0\FuncSelect.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\FuncSelect\FuncSelect\obj\Debug\net7.0\FuncSelect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\FuncSelect\FuncSelect\obj\Debug\net7.0\FuncSelect.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\FuncSelect\FuncSelect\obj\Debug\net7.0\FuncSelect.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\FuncSelect\FuncSelect\obj\Debug\net7.0\FuncSelect.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\FuncSelect\FuncSelect\obj\Debug\net7.0\FuncSelect.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\FuncSelect\FuncSelect\obj\Debug\net7.0\refint\FuncSelect.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\FuncSelect\FuncSelect\obj\Debug\net7.0\FuncSelect.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\FuncSelect\FuncSelect\obj\Debug\net7.0\FuncSelect.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\FuncSelect\FuncSelect\obj\Debug\net7.0\ref\FuncSelect.dll

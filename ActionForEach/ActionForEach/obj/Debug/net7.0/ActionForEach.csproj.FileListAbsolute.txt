@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ActionForEach\ActionForEach\bin\Debug\net7.0\ActionForEach.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ActionForEach\ActionForEach\bin\Debug\net7.0\ActionForEach.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ActionForEach\ActionForEach\bin\Debug\net7.0\ActionForEach.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ActionForEach\ActionForEach\bin\Debug\net7.0\ActionForEach.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ActionForEach\ActionForEach\bin\Debug\net7.0\ActionForEach.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ActionForEach\ActionForEach\obj\Debug\net7.0\ActionForEach.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ActionForEach\ActionForEach\obj\Debug\net7.0\ActionForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ActionForEach\ActionForEach\obj\Debug\net7.0\ActionForEach.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ActionForEach\ActionForEach\obj\Debug\net7.0\ActionForEach.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ActionForEach\ActionForEach\obj\Debug\net7.0\ActionForEach.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ActionForEach\ActionForEach\obj\Debug\net7.0\ActionForEach.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ActionForEach\ActionForEach\obj\Debug\net7.0\refint\ActionForEach.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ActionForEach\ActionForEach\obj\Debug\net7.0\ActionForEach.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ActionForEach\ActionForEach\obj\Debug\net7.0\ActionForEach.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ActionForEach\ActionForEach\obj\Debug\net7.0\ref\ActionForEach.dll
