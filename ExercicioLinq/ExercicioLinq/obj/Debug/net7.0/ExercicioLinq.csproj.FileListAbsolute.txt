@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioLinq\ExercicioLinq\bin\Debug\net7.0\ExercicioLinq.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioLinq\ExercicioLinq\bin\Debug\net7.0\ExercicioLinq.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioLinq\ExercicioLinq\bin\Debug\net7.0\ExercicioLinq.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioLinq\ExercicioLinq\bin\Debug\net7.0\ExercicioLinq.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioLinq\ExercicioLinq\bin\Debug\net7.0\ExercicioLinq.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioLinq\ExercicioLinq\obj\Debug\net7.0\ExercicioLinq.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioLinq\ExercicioLinq\obj\Debug\net7.0\ExercicioLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioLinq\ExercicioLinq\obj\Debug\net7.0\ExercicioLinq.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioLinq\ExercicioLinq\obj\Debug\net7.0\ExercicioLinq.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioLinq\ExercicioLinq\obj\Debug\net7.0\ExercicioLinq.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioLinq\ExercicioLinq\obj\Debug\net7.0\ExercicioLinq.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioLinq\ExercicioLinq\obj\Debug\net7.0\refint\ExercicioLinq.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioLinq\ExercicioLinq\obj\Debug\net7.0\ExercicioLinq.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioLinq\ExercicioLinq\obj\Debug\net7.0\ExercicioLinq.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExercicioLinq\ExercicioLinq\obj\Debug\net7.0\ref\ExercicioLinq.dll
