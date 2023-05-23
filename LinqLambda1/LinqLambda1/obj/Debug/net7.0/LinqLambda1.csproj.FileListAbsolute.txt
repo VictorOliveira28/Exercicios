@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\LinqLambda1\LinqLambda1\bin\Debug\net7.0\LinqLambda1.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\LinqLambda1\LinqLambda1\bin\Debug\net7.0\LinqLambda1.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\LinqLambda1\LinqLambda1\bin\Debug\net7.0\LinqLambda1.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\LinqLambda1\LinqLambda1\bin\Debug\net7.0\LinqLambda1.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\LinqLambda1\LinqLambda1\bin\Debug\net7.0\LinqLambda1.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\LinqLambda1\LinqLambda1\obj\Debug\net7.0\LinqLambda1.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\LinqLambda1\LinqLambda1\obj\Debug\net7.0\LinqLambda1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\LinqLambda1\LinqLambda1\obj\Debug\net7.0\LinqLambda1.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\LinqLambda1\LinqLambda1\obj\Debug\net7.0\LinqLambda1.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\LinqLambda1\LinqLambda1\obj\Debug\net7.0\LinqLambda1.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\LinqLambda1\LinqLambda1\obj\Debug\net7.0\LinqLambda1.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\LinqLambda1\LinqLambda1\obj\Debug\net7.0\refint\LinqLambda1.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\LinqLambda1\LinqLambda1\obj\Debug\net7.0\LinqLambda1.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\LinqLambda1\LinqLambda1\obj\Debug\net7.0\LinqLambda1.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\LinqLambda1\LinqLambda1\obj\Debug\net7.0\ref\LinqLambda1.dll
