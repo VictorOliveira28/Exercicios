@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\QuicksortLivro\QuicksortLivro\bin\Debug\net7.0\QuicksortLivro.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\QuicksortLivro\QuicksortLivro\bin\Debug\net7.0\QuicksortLivro.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\QuicksortLivro\QuicksortLivro\bin\Debug\net7.0\QuicksortLivro.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\QuicksortLivro\QuicksortLivro\bin\Debug\net7.0\QuicksortLivro.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\QuicksortLivro\QuicksortLivro\bin\Debug\net7.0\QuicksortLivro.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\QuicksortLivro\QuicksortLivro\obj\Debug\net7.0\QuicksortLivro.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\QuicksortLivro\QuicksortLivro\obj\Debug\net7.0\QuicksortLivro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\QuicksortLivro\QuicksortLivro\obj\Debug\net7.0\QuicksortLivro.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\QuicksortLivro\QuicksortLivro\obj\Debug\net7.0\QuicksortLivro.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\QuicksortLivro\QuicksortLivro\obj\Debug\net7.0\QuicksortLivro.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\QuicksortLivro\QuicksortLivro\obj\Debug\net7.0\QuicksortLivro.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\QuicksortLivro\QuicksortLivro\obj\Debug\net7.0\refint\QuicksortLivro.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\QuicksortLivro\QuicksortLivro\obj\Debug\net7.0\QuicksortLivro.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\QuicksortLivro\QuicksortLivro\obj\Debug\net7.0\QuicksortLivro.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\QuicksortLivro\QuicksortLivro\obj\Debug\net7.0\ref\QuicksortLivro.dll

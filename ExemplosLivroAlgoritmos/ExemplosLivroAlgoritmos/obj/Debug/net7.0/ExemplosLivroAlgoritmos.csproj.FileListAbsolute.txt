@@ -1,0 +1,15 @@
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExemplosLivroAlgoritmos\ExemplosLivroAlgoritmos\bin\Debug\net7.0\ExemplosLivroAlgoritmos.exe
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExemplosLivroAlgoritmos\ExemplosLivroAlgoritmos\bin\Debug\net7.0\ExemplosLivroAlgoritmos.deps.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExemplosLivroAlgoritmos\ExemplosLivroAlgoritmos\bin\Debug\net7.0\ExemplosLivroAlgoritmos.runtimeconfig.json
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExemplosLivroAlgoritmos\ExemplosLivroAlgoritmos\bin\Debug\net7.0\ExemplosLivroAlgoritmos.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExemplosLivroAlgoritmos\ExemplosLivroAlgoritmos\bin\Debug\net7.0\ExemplosLivroAlgoritmos.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExemplosLivroAlgoritmos\ExemplosLivroAlgoritmos\obj\Debug\net7.0\ExemplosLivroAlgoritmos.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExemplosLivroAlgoritmos\ExemplosLivroAlgoritmos\obj\Debug\net7.0\ExemplosLivroAlgoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExemplosLivroAlgoritmos\ExemplosLivroAlgoritmos\obj\Debug\net7.0\ExemplosLivroAlgoritmos.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExemplosLivroAlgoritmos\ExemplosLivroAlgoritmos\obj\Debug\net7.0\ExemplosLivroAlgoritmos.AssemblyInfo.cs
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExemplosLivroAlgoritmos\ExemplosLivroAlgoritmos\obj\Debug\net7.0\ExemplosLivroAlgoritmos.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExemplosLivroAlgoritmos\ExemplosLivroAlgoritmos\obj\Debug\net7.0\ExemplosLivroAlgoritmos.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExemplosLivroAlgoritmos\ExemplosLivroAlgoritmos\obj\Debug\net7.0\refint\ExemplosLivroAlgoritmos.dll
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExemplosLivroAlgoritmos\ExemplosLivroAlgoritmos\obj\Debug\net7.0\ExemplosLivroAlgoritmos.pdb
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExemplosLivroAlgoritmos\ExemplosLivroAlgoritmos\obj\Debug\net7.0\ExemplosLivroAlgoritmos.genruntimeconfig.cache
+C:\Users\marcu\Documents\ProjetoCSharp\Exercicios\ExemplosLivroAlgoritmos\ExemplosLivroAlgoritmos\obj\Debug\net7.0\ref\ExemplosLivroAlgoritmos.dll
